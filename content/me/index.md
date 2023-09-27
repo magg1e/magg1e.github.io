@@ -11,3 +11,8 @@ showTableOfContents = false
 
 # maggie dong
 ## 24. software engineer. artist.
+
+{{< button href="Maggie_Dong_Resume_2023.pdf" target="Maggie_Dong_Resume_2023.pdf" >}}
+resumé
+{{< /button >}}
+
