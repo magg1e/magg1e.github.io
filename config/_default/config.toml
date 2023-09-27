@@ -2,7 +2,7 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://jpanther.github.io/congo/docs/getting-started/
 
-baseURL = "https://magg1e.github.io//"
+baseURL = "https://magg1e.github.io"
 defaultContentLanguage = "en"
 languageCode = "en"
 

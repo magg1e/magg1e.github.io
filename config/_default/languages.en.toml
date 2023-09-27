@@ -2,7 +2,7 @@ languageCode = "en"
 languageName = "English"
 weight = 1
 
-title = "Congo"
+title = "maggie dong"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 [params]
@@ -16,12 +16,12 @@ title = "Congo"
   # description = "My awesome website"
 
 [author]
-   name = "maggie dong"
-  # image = "img/author.jpg"
-   headline = "24. software engineer. artist."
+#   name = "maggie dong"
+#   image = "img/author.jpeg"
+#   headline = "24. software engineer. artist."
   # bio = "A little bit about you"
    links = [
-     { email = "mailto:maggiedong177@gmail.com" },
+#     { email = "mailto:maggiedong177@gmail.com" },
   #   { link = "https://link-to-some-website.com/" },
   #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
   #   { apple = "https://www.apple.com" },
