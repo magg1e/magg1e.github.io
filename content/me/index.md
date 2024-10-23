@@ -16,3 +16,6 @@ showTableOfContents = false
 resumé
 {{< /button >}}
 
+{{< button href="mailto: maggiedong177@gmail.com" >}}
+contact me
+{{< /button >}}
